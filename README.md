@@ -14,8 +14,13 @@ The broadest conclusion of this analysis is that the three town types bring in t
 ### Pyber Fare Summary by City Type
 ![](Pyber_fare_summary.png)
 
+As one can see, the three town types perform distinctly different from one another, never intersecting in terms of how much in fares they are able to command. Each city type also sees spikes and drops in fares, not entirely exclusive to each type. For example, see February to pre-march.
+
+To see some of the summary statistics of each town type, please see the below.
 
 ### Pyber General Summary Statistics
 ![](Pyber_summary_stats.png)
+
+Similarly to what we see in the graph, urban town types bring in the most in Total Fares and has the most activity in terms of Total Rides. However, the Average Fare per Ride and Average Fare per Driver are higher in Rural and Suburban towns.
 
 ## Summary
