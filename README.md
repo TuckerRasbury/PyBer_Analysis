@@ -14,7 +14,7 @@ The broadest conclusion of this analysis is that the three town types bring in t
 ### Pyber Fare Summary by City Type
 ![](Pyber_fare_summary.png)
 
-As one can see, the three town types perform distinctly different from one another, never intersecting in terms of how much in fares they are able to command. Each city type also sees spikes and drops in fares, not entirely exclusive to each type. For example, see February to pre-march.
+As one can see, the three town types perform distinctly different from one another, never intersecting in terms of how much in fares they are able to command. Each city type also experiences spikes and drops in fares. For example, see February to pre-march.
 
 To see some of the summary statistics of each town type, please see the below.
 
@@ -24,3 +24,10 @@ To see some of the summary statistics of each town type, please see the below.
 Similarly to what we see in the graph, urban town types bring in the most in Total Fares and has the most activity in terms of Total Rides. However, the Average Fare per Ride and Average Fare per Driver are higher in Rural and Suburban towns.
 
 ## Summary
+The analysis provided here presents us with a few unique windows of opportunities for analysis and business expansion. 
+
+The first opportunity is addressing the discrepancy is Average Fare per Ride between city types. If the Average Fare per Ride for Rural or Suburban towns can be brought to the same level as Urban towns, maybe we might see a rise in the total number of riders which in turn could make up the loss in revenue from getting the average down. I would suggest pursuing this in suburban towns first as suburban towns perform more similarly to urban towns in terms of Average Fare per Ride and Total Rides.
+
+The second opportunity is in rural towns. Rural towns bring in the least in fares but see numerous spikes throughout our data. We need look to see what contributes to those spiking dates (ie. one off rides, local events that require our services). We may even be able to offer a deal around those times, events, or trends to accenuate those spikes.
+
+The third opportunity pertains to the sizeable variances between Q1 and Q2 for urban towns. The strongest of our three markets is the urban one and the variance may spook our investors. We should look into why we see a fairly stable Q1 and a more varied Q2.
